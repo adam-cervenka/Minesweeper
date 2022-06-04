@@ -1,4 +1,4 @@
-MINESWEEPER GAME
+# MINESWEEPER GAME
 
 To play a game, run “minesweeper.py”.
 
